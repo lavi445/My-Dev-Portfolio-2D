@@ -21,8 +21,8 @@ export const dialogueData = {
     Feel free to contact me via LinkedIn or email if you have any exciting opportunities in web development or UI/UX design!`,
   
     projects: `Info about this portfolio: I enjoy creating websites using tools like Wix and exploring frameworks like React.  
-    My recent projects include e-commerce websites, recipe games, and more. You can see some of my work on Fiverr:  
-    <a href="https://www.fiverr.com/s/YR0pV0R" target="_blank">Fiverr Gig</a>.`,
+    My recent projects include e-commerce websites, recipe games, and more. You can see some of my work on Upwork:  
+    <a href="https://www.upwork.com/freelancers/~011943f5fba2ef1794?mp_source=share" target="_blank">Upwork</a>.`,
   
     library: `These shelves are filled with my technical books, including ones on algorithms, web development, and UX design.  
     Though I don't always finish every book I start, I love learning and diving into new concepts.`,
