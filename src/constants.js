@@ -11,8 +11,7 @@ export const dialogueData = {
     "sofa-table": `That's my sofa. I like to relax here and watch tech tutorials or edit videos.  
     I also create educational content about web development on Instagram. Follow me on <a href="https://instagram.com/bhawana_as" target="_blank">Instagram</a> if you're curious!`,
   
-    tv: `That's my TV. Recently, I've been enjoying content from creators like The Net Ninja, freeCodeCamp, and Traversy Media.  
-    They inspire my learning journey, especially in web development and UI/UX design.`,
+    tv: `That's my TV! Recently, I've been enjoying content from creators like The Net Ninja, freeCodeCamp, Traversy Media, and Sheryians Coding School. They align perfectly with my passion for web development and UI/UX design, constantly inspiring me to grow and experiment with new ideas in my projects.`,
   
     bed: `This is where I sleep and brainstorm ideas. Some of my best ideas for projects come when I'm lying here,  
     and I always keep a notepad or my phone nearby to jot them down before I forget.`,
